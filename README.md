@@ -1,6 +1,6 @@
 # Explanatory_Data_Analysis-Olympic_Medals
-Explanatory Data Analysis on Olympics medals.
-#Country
+Explanatory Data Analysis on Olympics medals.<br />
+# Country
 'URS': 'Soviet Union', <br />
  'GDR': 'East Germany', <br />
  'ROU': 'Romania', <br />
